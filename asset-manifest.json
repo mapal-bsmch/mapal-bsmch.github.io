@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.461d1fb0.js",
-    "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
+    "main.js": "/static/js/main.6a09eb0f.js",
+    "static/js/787.bce41ae6.chunk.js": "/static/js/787.bce41ae6.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.b0eac5b1b8497db8efd5.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
     "static/media/מבוא למחשבים.docx": "/static/media/מבוא למחשבים.5d67c0fe072e3dee9e30.docx",
@@ -33,11 +33,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.461d1fb0.js.map": "/static/js/main.461d1fb0.js.map",
-    "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
+    "main.6a09eb0f.js.map": "/static/js/main.6a09eb0f.js.map",
+    "787.bce41ae6.chunk.js.map": "/static/js/787.bce41ae6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.461d1fb0.js"
+    "static/js/main.6a09eb0f.js"
   ]
 }
